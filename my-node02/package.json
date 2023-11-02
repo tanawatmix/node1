@@ -1,0 +1,17 @@
+{
+  "name": "my-node02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "date-format": "^4.0.14"
+  },
+  "dependencies": {
+    "dateformat": "^5.0.3"
+  }
+}
